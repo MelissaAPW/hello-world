@@ -14,4 +14,4 @@ This is a good example of [my code] (https://gist.github.com/MelissaAPW/f8743d8d
 
 
 ###Image from notebook
-This is a pic of [my code] (
+This is a pic of [my code] (https://github.com/MelissaAPW/hello-world/issues/1#issue-917620496)
